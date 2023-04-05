@@ -1,0 +1,9 @@
+{
+    "server-component": {
+        "welcome": "Ni Hao"
+    },
+    "counter": {
+        "increment": "Zengjia",
+        "decrement": "Jianshao"
+    }
+}
